@@ -19,10 +19,10 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.redhat.summit2019</groupId>
-  <artifactId>thorntail-insult-starter</artifactId>
+  <artifactId>insult-nouns</artifactId>
   <version>1.0.0</version>
   <packaging>war</packaging>
-  <name>Thorntail - Exmple</name>
+  <name>Thorntail Noun Service for Shakespearean Insult App</name>
   <licenses>
     <license>
       <name>Apache License, Version 2.0</name>
